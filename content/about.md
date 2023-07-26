@@ -6,6 +6,7 @@ menu = "main"
 
 Hugo is a static site engine written in Go.
 
+HELLO! 
 
 It makes use of a variety of open source projects including:
 
