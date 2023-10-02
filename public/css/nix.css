@@ -90,7 +90,7 @@ i {
 }
 
 .post-header {
-	background-color: #F5F5F5;
+	background-color: #d5f29c;
 	overflow: hidden;
 	padding: 0 5px 0 5px;
 }
@@ -131,7 +131,7 @@ i {
 }
 
 .footer {
-	background-color: #F5F5F5;
+	background-color: #d5f29c;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;

@@ -6,10 +6,6 @@ disqusShortname = "your_disqus_shortname"
 
 [menu]
   [[menu.header]]
-    name = "post"
-    weight = 0
-    url = "post"
-  [[menu.header]]
     name = "about"
     weight = 1
     url = "about"
@@ -19,19 +15,15 @@ disqusShortname = "your_disqus_shortname"
     url = "test"
 
 [params]
-  GithubID = "https://system76.com"
-  TwitterID = "your_twitter"
+
   LinkedInID = "your_linkedin"
-  MediumID = "your_medium"
-  SpotifyID = "your_spotify"
-  SoundcloudID = "therealstevejobs"
   YoutubeID = "your_youtube"
-  TelegramID = "your_telegram"
-  Name = "Mr Hugo"
-  HeaderUsername = "hugo"
+  FacebookID = "your_facebook"
+  Name = "Longo Horse Care LLC"
+  HeaderUsername = "LongoHorseCare"
   HeaderHostname = "gohugo.io"
-  Email = "your_email"
-  About = "Hi I'm Hugo and this is my website. I am a developer, writer and family man. I like developing websites using Hugo, sports, nature, photography and travel. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  Email = "sjmilden@yahoo.com"
+  About = "Welcome to Longo Horse Care LLC! Founded in 2023, Margaret offers services such as horse care and treatment, Theraputic Services, stable cleaning, among other services! Please reach out with any inquires you have, I am happy to discuss what your specific needs are. "
   ProfilePicture = "/profile.jpg"
   Favicon = "/favicon.ico"
 

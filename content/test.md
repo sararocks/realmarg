@@ -1,10 +1,16 @@
 +++
-title = "test page"
-date = "2014-04-09"
+title = "CONTACT ME"
+date = "Last Updated July 2023"
 menu = "main"
 +++
 
-Thanks for reading!
 
+## Please feel free to reach out using the sheet below!
 
-## HELLO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## Contact
+
+I respond fastest by ###, please feel free to reach out! 
+
+* email
+* phone
+*  [facebook](http://facebook.com/)

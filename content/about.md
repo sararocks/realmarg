@@ -1,31 +1,18 @@
 +++
-title = "About Horse stuff"
-date = "2014-04-09"
+title = "Longo Horse Care LLC"
+date = "07-26-2023"
 menu = "main"
 +++
 
-Hugo is a static site engine written in Go.
+Hi! I'm Margaret, Founder and Owner of Longo Horse Care LLC. I started working with therapy horses, and fell in love with the work. I find that the deep connections I have made with horses and with their owners have brought joy and meaning to my life in a new way, and I look forward to helping other people disciver this joy for themselves in my continued work with horses and farms. I have experience in: 
 
-HELLO! 
+* Stall Cleaning
+* Giving Meds
+* Feeding and Daily Duties
+* Theraputic Sessions
 
-It makes use of a variety of open source projects including:
+Please see a few testimonials from my past and current clients below: 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
